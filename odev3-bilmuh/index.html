@@ -1,0 +1,122 @@
+<DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  </head>
+  <body style="background-color:#F6F6F6">
+    <header>
+      <nav id="header-nav" class="navbar navbar-default">
+        <div class="container">
+          <div class="navbar-header">
+            <a href="index.html" class="pull-left visible-md visible-lg">
+              <div id="logo-img"></div>
+            </a>
+
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          </div>
+
+          <div id="collapsable-nav" class="collapse navbar-collapse">
+             <ul id="nav-list" class="nav navbar-nav navbar-right">
+              <li>
+                <a href="#">
+                  <span class="glyphicon glyphicon-time"></span><br class="hidden-xs"> Tarihçe</a>
+              </li>
+              <li>
+                <a href="#">
+                  <span class="glyphicon glyphicon-user"></span><br class="hidden-xs"> Personel</a>
+              </li>
+              <li>
+                <a href="#">
+                  <span class="glyphicon glyphicon-book"></span><br class="hidden-xs"> Eğitim</a>
+              </li>
+            </ul><!-- #nav-list -->
+          </div><!-- .collapse .navbar-collapse -->
+        </div><!-- .container -->
+      </nav><!-- #header-nav -->
+    </header>
+
+    <div id="main-content" class="container">
+      <div class="jumbotron visible-xs">
+        <img src="images/img_600.jpg" alt="Picture of bilmuh" class="img-responsive">
+      </div>
+      <div class="jumbotron visible-sm visible-md">
+        <img src="images/img_900.jpg" alt="Picture of bilmuh" class="img-responsive">
+      </div>
+      <div class="jumbotron visible-lg">
+        <img src="images/img_1200.jpg" alt="Picture of bilmuh" class="img-responsive">
+      </div>
+
+      <div id="tiles" class="row">
+       <div class="col-md-4 col-sm-6 col-xs-12">
+         <a href="#"><div id="duyurular-tile"><span>duyurular</span></div></a>
+       </div>
+       <div class="col-md-4 col-sm-6 col-xs-12">
+         <a href="#"><div id="egitim-tile"><span>egitim</span></div></a>
+       </div>
+       <div class="col-md-4 col-sm-12 col-xs-12">
+         <a href="https://www.google.com.tr/maps/place/Ege+%C3%9Cniversitesi+Bilgisayar+M%C3%BChendisli%C4%9Fi+B%C3%B6l%C3%BCm%C3%BC/@38.4579885,27.2112153,17z/data=!3m1!4b1!4m5!3m4!1s0x14b97d2edf7e8e55:0x5fcc67a77466c8f3!8m2!3d38.4579885!4d27.213404?hl=tr" target="_blank">
+           <div id="map-tile">
+             <iframe src="https://www.google.com/maps?q=Ege+%C3%9Cniversitesi+Bilgisayar+M%C3%BChendisli%C4%9Fi&output=embed" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+             <span>map</span>
+           </div>
+         </a>
+       </div>
+      </div><!-- End of #home-tiles -->
+
+    </div>
+
+    <footer class="panel-footer">
+        <div class="container">
+          <section id="yararli" class="col-sm-4">
+            <span>YARARLI LİNKLER</span><br/><br/>
+            <div class="row">
+              <ul>
+                <li><a href="#">Ege Üniversitesi</a></li>
+                <li><a href="#">Ege Posta(Eski)</a></li>
+                <li><a href="#">Ege Posta(Yeni)</a></li>
+                <li><a href="#">Ege Tel</a></li>
+                <li><a href="#">Ege Duyuru</a></li>
+                <li><a href="#">Mezunlar</a></li>
+                <li><a href="#">Ege Harita</a></li>
+              </ul>
+              <hr class="visible-xs">
+            </section>
+            <section id="address" class="col-sm-4">
+              <span>ADRES</span><br><br/>
+                Ege Üniversitesi<br/><br/>
+                Mühendislik Fakültesi<br/>
+                Bilgisayar Mühendisliği Bölümü<br/><br/>
+                Kazımdirik Mahallesi,<br/>
+                Bornova Metro İstasyonu Karşısı,<br/>
+                35100 Bornova / İZMİR
+
+              <hr class="visible-xs">
+            </section>
+            <section id="access" class="col-sm-4">
+              <span>İLETİŞİM</span><br/><br/>
+              Telefon<br/>
+              <h3>+90 232 388 72 21</h3>
+              Faks
+              <h3>+90 232 339 94 05</h3>
+              E-Posta
+              <a href="#"><h3>bilmuh@mail.ege.edu.tr</h3></a>
+            </section>
+          </div>
+          <div class="text-center">&copy; Copyright Selman KARA 2017</div>
+        </div>
+    </footer>
+
+  </body>
+</html>

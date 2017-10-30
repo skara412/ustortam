@@ -1,0 +1,42 @@
+
+
+
+.title{/*divlerin başlıkları için style*/
+  position: relative;
+  text-align: center;
+  color:black;
+}
+
+
+
+.icerik{
+margin:10px;
+padding: 10px;
+border-width: 5px;
+border-style: solid;
+background-color: #999999;
+}
+
+#nav-list {
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+  position: relative;
+
+}
+
+#nav-list li a{
+  color:black;
+}
+
+
+#header-nav{
+  background-color: #999999;
+}
+
+
+.navbar-brand{
+    position: absolute;
+    left:30;
+    top:0;
+}
