@@ -9,6 +9,9 @@ body {
   border-radius: 0;
   border: 0;
   position: relative;
+  box-shadow: 0 0 10px #414548;
+  border: 1px solid #414548;
+  border-radius: 10px;
 }
 
 #logo-img {
@@ -87,8 +90,9 @@ body {
 }
 
 .container .jumbotron {
-  box-shadow: 0 0 50px #3F0C1F;
-  border: 2px solid #3F0C1F;
+  box-shadow: 0 0 20px #414548;
+  border: 2px solid #414548;
+  border-radius:10px;
 }
 
 #duyurular-tile, #egitim-tile, #map-tile{
@@ -97,6 +101,9 @@ body {
   margin-bottom: 15px;
   position: relative;
   overflow: hidden;
+  box-shadow: 0 0 20px #414548;
+  border: 2px solid #414548;
+  border-radius: 10px;
 }
 #duyurular-tile:hover, #egitim-tile:hover, #map-tile:hover {
   box-shadow: 0 1px 5px 1px #cccccc;
@@ -130,4 +137,11 @@ body {
 .panel-footer .container section{
   margin-top: 30px;
   text-align: center;
+
+}
+
+.panel-footer .container{
+  box-shadow: 0 0 50px #414548;
+  border: 2px solid #414548;
+  border-radius: 10px;
 }
