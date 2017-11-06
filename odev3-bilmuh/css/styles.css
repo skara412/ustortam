@@ -14,9 +14,13 @@ body {
   border-radius: 10px;
 }
 
+#collapsable-nav{
+  margin-right: 50px;
+}
+
 #logo-img {
   background: url('../images/logo.png') no-repeat;
-  background-size: contain;
+  background-size: cover;
   width: 585px;
   height: 94px;
   margin: 10px 15px 10px 0;
