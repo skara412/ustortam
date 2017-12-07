@@ -1,0 +1,359 @@
+﻿{
+  "courses": [
+        {
+            "tip": "L",
+            "name": "Algoritma ve Programlama I",
+            "credit": "7",
+            "semester": 1
+        },
+        {
+            "tip": "L",
+            "name": "Atatürk İlkeleri ve İnkılap Tarihi I",
+            "credit": "2",
+            "semester": 1
+        },
+        {
+            "tip": "L",
+            "name": "Fizik I",
+            "credit": "6",
+            "semester": 1
+        },
+        {
+            "tip": "L",
+            "name": "Matematik I",
+            "credit": "6",
+            "semester": 1
+        },
+        {
+            "tip": "L",
+            "name": "Sözlü ve Yazılı İletişim",
+            "credit": "2",
+            "semester": 1
+        },
+        {
+            "tip": "L",
+            "name": "Technical English",
+            "credit": "4",
+            "semester": 1
+        },
+        {
+            "tip": "L",
+            "name": "Türk Dili I",
+            "credit": "2",
+            "semester": 1
+        },
+        {
+            "tip": "L",
+            "name": "Üniversite Yaşamına Geçiş",
+            "credit": "1",
+            "semester": 1
+        },
+        {
+            "tip": "L",
+            "name": "ALGORİTMA VE PROGRAMLAMA-II ",
+            "credit": "1",
+            "semester": 2
+        },
+        {
+            "tip": "L",
+            "name": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
+            "credit": "1",
+            "semester": 2
+        },
+        {
+            "tip": "L",
+            "name": "AYRIK YAPILAR",
+            "credit": "1",
+            "semester": 2
+        },
+        {
+            "tip": "L",
+            "name": "FİZİK-II ",
+            "credit": "1",
+            "semester": 2
+        },
+        {
+            "tip": "L",
+            "name": "INTRODUCTION TO COMPUTER SCIENCE",
+            "credit": "1",
+            "semester": 2
+        },
+        {
+            "tip": "L",
+            "name": "MATEMATİK-II",
+            "credit": "1",
+            "semester": 2
+        },
+        {
+            "tip": "L",
+            "name": "TÜRK DİLİ II",
+            "credit": "1",
+            "semester": 2
+        },
+        {
+            "tip": "L",
+            "name": "AUTOMATA THEORY",
+            "credit": "1",
+            "semester": 3
+        },
+        {
+            "tip": "L",
+            "name": "DATA STRUCTURES",
+            "credit": "1",
+            "semester": 3
+        },
+        {
+            "tip": "L",
+            "name": "DİFERANSİYEL DENKLEMLER",
+            "credit": "1",
+            "semester": 3
+        },
+        {
+            "tip": "L",
+            "name": "ELECTRICAL CIRCUITS ",
+            "credit": "1",
+            "semester": 3
+        },
+        {
+            "tip": "L",
+            "name": "MANTIK DEVRELERİ TASARIMI ",
+            "credit": "1",
+            "semester": 3
+        },
+        {
+            "tip": "L",
+            "name": "OLASILIK VE İSTATİSTİK",
+            "credit": "1",
+            "semester": 3
+        },
+        {
+            "tip": "L",
+            "name": "DIGITAL COMPUTER DESIGN",
+            "credit": "1",
+            "semester": 4
+        },
+        {
+            "tip": "L",
+            "name": "DIGITAL ELECTRONICS",
+            "credit": "1",
+            "semester": 4
+        },
+        {
+            "tip": "L",
+            "name": "TOPLUMA HİZMET UYGULAMALARI",
+            "credit": "1",
+            "semester": 4
+        },
+        {
+            "tip": "L",
+            "name": "PROGRAMMING LANGUAGES",
+            "credit": "1",
+            "semester": 4
+        },
+        {
+            "tip": "L",
+            "name": "DOĞRUSAL CEBİR VE NÜMERİK YÖNTEMLER",
+            "credit": "1",
+            "semester": 4
+        },
+        {
+            "tip": "L",
+            "name": "MODERN BİYOLOJİ",
+            "credit": "1",
+            "semester": 4
+        },
+        {
+            "tip": "L",
+            "name": "BİLGİSAYAR AĞLARI",
+            "credit": "1",
+            "semester": 5
+        },
+        {
+            "tip": "L",
+            "name": "DATABASE MANAGEMENT",
+            "credit": "1",
+            "semester": 5
+        },
+        {
+            "tip": "L",
+            "name": "İŞLETİM SİSTEMLERİ",
+            "credit": "1",
+            "semester": 5
+        },
+        {
+            "tip": "L",
+            "name": "MİKROİŞLEMCİLER",
+            "credit": "1",
+            "semester": 5
+        },
+        {
+            "tip": "L",
+            "name": "NESNEYE DAYALI PROGRAMLAMA",
+            "credit": "1",
+            "semester": 5
+        },
+        {
+            "tip": "L",
+            "name": "Teknik Seçmeli Grup I",
+            "credit": "1",
+            "semester": 5
+        },
+        {
+            "tip": "L",
+            "name": "ANALYSIS OF ALGORITHMS",
+            "credit": "1",
+            "semester": 6
+        },
+        {
+            "tip": "L",
+            "name": "MICROCONTROLLER BASED SYSTEM DESIGN",
+            "credit": "1",
+            "semester": 6
+        },
+        {
+            "tip": "L",
+            "name": "OBJECT ORIENTED ANALYSIS & DESIGN",
+            "credit": "1",
+            "semester": 6
+        },
+        {
+            "tip": "L",
+            "name": "STAJ",
+            "credit": "1",
+            "semester": 6
+        },
+        {
+            "tip": "L",
+            "name": "Teknik Seçmeli Grup II",
+            "credit": "1",
+            "semester": 6
+        },
+        {
+            "tip": "L",
+            "name": "BİTİRME TEZİ",
+            "credit": "1",
+            "semester": 7
+        },
+        {
+            "tip": "L",
+            "name": "İŞ SAĞLIĞI VE GÜVENLİĞİ I",
+            "credit": "1",
+            "semester": 7
+        },
+        {
+            "tip": "L",
+            "name": "SOFTWARE ENGINEERING",
+            "credit": "1",
+            "semester": 7
+        },
+        {
+            "tip": "L",
+            "name": "Teknik Olmayan Seçmeli Grup I",
+            "credit": "1",
+            "semester": 7
+        },
+        {
+            "tip": "L",
+            "name": "Teknik Seçmeli Grup III",
+            "credit": "1",
+            "semester": 7
+        },
+        {
+            "tip": "L",
+            "name": "BİTİRME TEZİ",
+            "credit": "1",
+            "semester": 8
+        },
+        {
+            "tip": "L",
+            "name": "COMPUTER ARCHITECTURE",
+            "credit": "1",
+            "semester": 8
+        },
+        {
+            "tip": "L",
+            "name": "İŞ SAĞLIĞI VE GÜVENLİĞİ II",
+            "credit": "1",
+            "semester": 8
+        },
+        {
+            "tip": "L",
+            "name": "Teknik Olmayan Seçmeli Grup II",
+            "credit": "1",
+            "semester": 8
+        },
+        {
+            "tip": "L",
+            "name": "Teknik Seçmeli Grup IV",
+            "credit": "1",
+            "semester": 8
+        },
+        {
+            "tip": "L",
+            "name": "YÖNEYLEM ARAŞTIRMASI",
+            "credit": "1",
+            "semester": 8
+        },
+        {
+            "tip": "Y",
+            "name": "Bilimsel Araştırma ve Yayın Etiği (DR)",
+            "credit": "1",
+            "semester": 1
+        },
+        {
+            "tip": "Y",
+            "name": "Bilimsel Araştırma ve Yayın Etiği (YL)",
+            "credit": "1",
+            "semester": 1
+        },
+        {
+            "tip": "Y",
+            "name": "İleri Algoritma Analizi",
+            "credit": "1",
+            "semester": 1
+        },
+        {
+            "tip": "Y",
+            "name": "Sistem Benzetimi",
+            "credit": "1",
+            "semester": 1
+        },
+        {
+            "tip": "Y",
+            "name": "Teknik Seçimlik I",
+            "credit": "1",
+            "semester": 1
+        },
+        {
+            "tip": "Y",
+            "name": "Anlamsal Web Servisleri",
+            "credit": "1",
+            "semester": 2
+        },
+        {
+            "tip": "Y",
+            "name": "Bilgisayar Ağı Tasarımı ve Yönetimi",
+            "credit": "1",
+            "semester": 2
+        },
+        {
+            "tip": "Y",
+            "name": "Biyoinformatik Algoritmaları",
+            "credit": "1",
+            "semester": 2
+        },
+        {
+            "tip": "Y",
+            "name": "Programlama Paradigmaları",
+            "credit": "1",
+            "semester": 2
+        },
+        {
+            "tip": "Y",
+            "name": "Zeki Sistemler",
+            "credit": "1",
+            "semester": 2
+        }
+
+]
+}

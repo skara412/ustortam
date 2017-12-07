@@ -1,0 +1,166 @@
+{
+  "personels": [
+        {
+            "tip": "Ö",
+            "name": "Prof.Dr. Oğuz DİKENELLİ",
+            "image": "oguz_dikenelli.jpg"
+        },
+        {
+            "tip": "A",
+            "name": "Burak Yönyül",
+            "image": "burak_yonyul.jpg"
+        },
+        {
+            "tip": "İ",
+            "name": "Okan ÇORBACIOĞLU",
+            "image": "okan_corbacioglu.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Doç.Dr. Rıza Cenk ERDUR",
+            "image": "cenk_erdur.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Prof.Dr. Serdar KORUKOĞLU",
+            "image": "serdar_korukoglu.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Prof.Dr. Levent TOKER",
+            "image": "levent_toker.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Prof.Dr. Yasemin TOPALOĞLU",
+            "image": "yasemin_topaloglu.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Prof.Dr. Aylin KANTARCI",
+            "image": "aylin_kantarci.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Prof.Dr. Aybars UĞUR",
+            "image": "aybars_ugur.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Doç.Dr. Murat Osman ÜNALIR",
+            "image": "cenk_erdur.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Doç.Dr. Rıza Cenk Erdur",
+            "image": "murat_osman_unalir.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Doç.Dr. Vecdi AYTAÇ",
+            "image": "vecdi_aytac.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Yrd.Doç.Dr. Şebnem BORA",
+            "image": "sebnem_bora.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Yrd.Doç.Dr. Hasan BULUT",
+            "image": "hasan_bulut.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Yrd.Doç.Dr. Özgür GÜMÜŞ",
+            "image": "ozgur_gumus.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Yrd.Doç.Dr. Özgü CAN",
+            "image": "ozgu_can.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Yrd.Doç.Dr. Ahmet EGESOY",
+            "image": "ahmet_egesoy.jpg"
+        },
+        {
+            "tip": "Ö",
+            "name": "Yrd.Doç.Dr. Kasım Sinan YILDIRIM",
+            "image": "kasim_sinan_yildirim.jpg"
+        }
+        ,
+        {
+            "tip": "Ö",
+            "name": "Yrd.Doç.Dr. Emine SEZER",
+            "image": "emine_sezer.jpg"
+        },
+        {
+            "tip": "A",
+            "name": "Arş.Gör.Dr. Özgün YILMAZ",
+            "image": "ozgun_yilmaz.jpg"
+        },
+        {
+            "tip": "A",
+            "name": "Arş.Gör.Dr. Birol ÇİLOĞLUGİL",
+            "image": "birol_ciloglugil.jpg"
+        },
+        {
+            "tip": "A",
+            "name": "Arş.Gör.Dr. Okan BURSA",
+            "image": "okan_bursa.jpg"
+        },
+        {
+            "tip": "A",
+            "name": "Arş.Gör. Osman GÖKALP",
+            "image": "osman_gokalp.jpg"
+        },
+        {
+            "tip": "A",
+            "name": "Arş.Gör. Fatmana ŞENTÜRK",
+            "image": "fatmana_senturk.jpg"
+        },
+        {
+            "tip": "A",
+            "name": "Arş.Gör. Remzi ÇELEBİ",
+            "image": "remzi_celebi.jpg"
+        },
+        {
+            "tip": "A",
+            "name": "Arş.Gör. Rabia KORKMAZ TAN",
+            "image": "rabia_korkmaz.jpg"
+        },
+        {
+            "tip": "A",
+            "name": "Arş.Gör. Sevcan EMEK",
+            "image": "sevcan_emek.jpg"
+        },
+        {
+            "tip": "A",
+            "name": "Arş.Gör. Musa MİLLİ",
+            "image": "musa_milli.jpg"
+        },
+        {
+            "tip": "A",
+            "name": "Arş.Gör. Erkan YAŞAR",
+            "image": "erkan_yasar.jpg"
+        },
+        {
+            "tip": "A",
+            "name": "Arş.Gör. Sema BODUR",
+            "image": "sema_bodur.jpg"
+        },
+        {
+            "tip": "A",
+            "name": "Arş.Gör. Sinem ÇINAROĞLU",
+            "image": "sinem_oren.jpg"
+        },
+        {
+            "tip": "A",
+            "name": "Arş.Gör. Beste KAYSI",
+            "image": "beste_kaysi.jpg"
+        }
+
+]
+}
